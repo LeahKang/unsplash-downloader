@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode
+image
+metadata.csv
+downloader.ipynb
+.DS_Store
